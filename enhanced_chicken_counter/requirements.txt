@@ -1,0 +1,43 @@
+# Enhanced Chicken Counter - Dependencies
+# Core Computer Vision and Machine Learning
+ultralytics>=8.0.0           # YOLOv8 and tracking
+opencv-python>=4.8.0         # Computer vision operations
+torch>=2.0.0                 # PyTorch for deep learning
+torchvision>=0.15.0          # Vision utilities
+numpy>=1.24.0                # Numerical operations
+pillow>=10.0.0               # Image processing
+
+# Tracking and Detection
+filterpy>=1.4.5              # Kalman filtering for tracking
+scikit-learn>=1.3.0          # Machine learning utilities
+scipy>=1.11.0                # Scientific computing
+
+# Data Handling and Logging
+pandas>=2.0.0                # Data manipulation
+python-dotenv>=1.0.0         # Environment variables
+loguru>=0.7.0                # Advanced logging
+pydantic>=2.0.0              # Data validation
+
+# API and HTTP
+httpx>=0.24.0                # Async HTTP client
+requests>=2.31.0             # HTTP requests
+openai>=1.0.0                # OpenAI/OpenRouter client
+
+# GUI and Visualization (Optional)
+matplotlib>=3.7.0            # Plotting
+plotly>=5.15.0               # Interactive plots
+streamlit>=1.25.0            # Web interface (optional)
+
+# Utilities
+tqdm>=4.65.0                 # Progress bars
+click>=8.1.0                 # Command line interface
+rich>=13.0.0                 # Rich text and formatting
+psutil>=5.9.0                # System monitoring
+
+# Development and Testing (Optional)
+pytest>=7.4.0               # Testing framework
+black>=23.0.0                # Code formatting
+isort>=5.12.0                # Import sorting
+
+# System specific
+pywin32>=306; platform_system=="Windows"  # Windows specific
