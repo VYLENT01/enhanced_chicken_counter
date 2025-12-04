@@ -1,12 +1,16 @@
 
-   https://github.com/ultralytics/ultralytics
+https://www.kaggle.com/datasets/allandclive/chicken-disease-1
 
-   https://github.com/ifzhang/ByteTrack
+https://universe.roboflow.com/bioset-h3npi/chicken-counter-3
 
-   https://github.com/Delgan/loguru
+https://universe.roboflow.com/chicken-health/chicken-health-detection2
 
-   https://github.com/Textualize/rich
+https://huggingface.co/datasets/ILSVRC/imagenet-1k
 
-   https://github.com/encode/httpx
+https://www.kaggle.com/datasets/hayriyigit/chicken-detection?utm_source=chatgpt.com
 
-  https://github.com/ultralytics/ultralytics
+https://www.kaggle.com/datasets/roudranildas/chicken-images-classification-dataset?utm_source=chatgpt.com
+
+https://www.kaggle.com/datasets/hubertpatrickmouton/day-old-chicken-dataset?utm_source=chatgpt.com
+
+https://www.kaggle.com/datasets/alessiocorrado99/animals10/data
