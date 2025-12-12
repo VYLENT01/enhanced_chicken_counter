@@ -1,0 +1,4 @@
+1.	Deep learning in poultry farming: comparative analysis of Yolov8–Yolov11 for dead chickens detection
+2.	Automating Poultry Farm Management with Artificial Intelligence: Real-time Detection and Tracking of Broiler Chickens
+3.	A Real-time Detector of Chicken Healthy Status Based on Modified YOLO
+4.	DFCCNet: A Dense Flock of Chickens Counting Network Based on Density Map Regression
