@@ -1,0 +1,34 @@
+{
+  "system": {
+    "name": "Enhanced Chicken Counter",
+    "version": "1.0.0",
+    "debug": false,
+    "auto_save": true
+  },
+  "detection": {
+    "confidence_threshold": 0.25,
+    "nms_threshold": 0.45,
+    "max_detections": 100,
+    "input_size": 640
+  },
+  "tracking": {
+    "track_buffer": 30,
+    "track_high_thresh": 0.25,
+    "track_low_thresh": 0.1,
+    "match_thresh": 0.8,
+    "max_tracked_objects": 100
+  },
+  "display": {
+    "show_video": true,
+    "show_fps": true,
+    "show_confidence": true,
+    "window_width": 1280,
+    "window_height": 720
+  },
+  "logging": {
+    "log_level": "INFO",
+    "performance_logging": true,
+    "save_images": false,
+    "cleanup_days": 7
+  }
+}
